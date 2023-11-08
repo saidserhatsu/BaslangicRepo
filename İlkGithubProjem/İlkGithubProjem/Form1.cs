@@ -23,6 +23,7 @@ namespace İlkGithubProjem
             label1.Text = "Merhaba Aloo";
             label1.Text = "exex";
             label1.Text = "axaxax";
+            label1.Text="githubdan yolluyorum pull et"
         }
     }
 }
