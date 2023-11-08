@@ -20,6 +20,8 @@ namespace İlkGithubProjem
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Merhaba Aloo";
+            label1.Text = "Merhaba Aloo";
+        }
         }
     }
 }
