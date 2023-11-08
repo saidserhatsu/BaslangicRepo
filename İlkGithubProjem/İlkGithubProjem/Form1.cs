@@ -21,8 +21,6 @@ namespace İlkGithubProjem
         {
             label1.Text = "Merhaba Aloo";
             label1.Text = "Merhaba Aloo";
-            label1.Text = "Merhaba Aloo";
-        }
         }
     }
 }
